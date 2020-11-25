@@ -27,8 +27,11 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilkenHarbor6)]
+
+  <img align="left" alt="SilkenHarbor6's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=SilkenHarbor6&show_icons=true&hide_border=true" />
+
 </details>
+
 [website]: https://google.com
 [twitter]: https://twitter.com/SilkenHarbor6
 [youtube]: https://youtube.com/
