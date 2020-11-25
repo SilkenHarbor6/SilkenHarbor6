@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bryan Palma - aka SilkenHarbor6[website]
 
-## I'm a Software Developer student on UNICAES
+## I'm a Software Developer student at <a href="https://www.catolica.edu.sv/">UNICAES</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning everything i can
@@ -37,9 +37,6 @@
 <br />
 <br />
 
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilkenHarbor6&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 <details>
   <summary>:zap: GitHub Stats</summary>
 
