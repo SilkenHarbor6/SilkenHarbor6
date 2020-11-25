@@ -22,7 +22,15 @@
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Visual Studio" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" />
+<img align="left" alt="github" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" />
+<img align="left" alt="MySql" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img align="left" alt="SQLServer" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" />
+<img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xamarin/xamarin.png"/>
 <br />
 
 <details>
