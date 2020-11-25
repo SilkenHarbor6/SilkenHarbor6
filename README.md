@@ -27,7 +27,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilkenHarbor6)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SilkenHarbor6)]
 </details>
 [website]: https://google.com
 [twitter]: https://twitter.com/SilkenHarbor6
