@@ -32,6 +32,7 @@
 <img align="left" alt="SQLServer" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql-server/sql-server.png" />
 <img align="left" alt="Xamarin" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/xamarin/xamarin.png"/>
 <br />
+<br />
 
 <details>
   <summary>:zap: GitHub Stats</summary>
