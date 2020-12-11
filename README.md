@@ -1,12 +1,14 @@
-### Hi there 👋, I'm Bryan Palma - aka SilkenHarbor6[website]
+### Hi there 👋, I'm Bryan Palma - aka SilkenHarbor6
 
 ## I'm a Software Developer student on UNICAES
 
-- 🔭 I’m currently working on ...
+<!-- - 🔭 I’m currently working on ... -->
+
 - 🌱 I’m currently learning everything i can
 - 📫 How to reach me: silkenharbor6@gmail.com
 - 🥅 2020 Goals: Start a blog or yt Channel
 - ⚡ Fun fact: I love videogames
+- Check my Xamarin Repositories at : https://github.com/XamarinCDS
 
 ### Connect with me:
 
