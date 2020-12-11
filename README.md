@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Bryan Palma - aka SilkenHarbor6
 
-## I'm a Software Developer student on UNICAES
+## I'm a Software Developer student at <a href="https://www.catolica.edu.sv/">UNICAES</a>
 
 <!-- - 🔭 I’m currently working on ... -->
 
